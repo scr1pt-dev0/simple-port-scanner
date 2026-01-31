@@ -25,6 +25,6 @@ Timeouts setzt und Fehler sauber behandelt. Das Projekt ist bewusst minimal geha
 Python 3 wird benötigt.
 
 ```bash
-git clone https://github.com/scr1pt-dev0/simple-port-scanner/blob/main/README.md
+git clone https://github.com/scr1pt-dev0/simple-port-scanner
 cd simple-port-scanner
 python3 scan.py <IP>
